@@ -26,11 +26,11 @@
             alt="follow on LinkedIn"></a>
     <a href="https://hub.docker.com/u/langgenius" target="_blank">
         <img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/langgenius/dify-web?labelColor=%20%23FDB062&color=%20%23f79009"></a>
-    <a href="https://github.com/langgenius/dify/graphs/commit-activity" target="_blank">
+    <a href="https://bgithub.xyz/langgenius/dify/graphs/commit-activity" target="_blank">
         <img alt="Commits last month" src="https://img.shields.io/github/commit-activity/m/langgenius/dify?labelColor=%20%2332b583&color=%20%2312b76a"></a>
-    <a href="https://github.com/langgenius/dify/" target="_blank">
+    <a href="https://bgithub.xyz/langgenius/dify/" target="_blank">
         <img alt="Issues closed" src="https://img.shields.io/github/issues-search?query=repo%3Alanggenius%2Fdify%20is%3Aclosed&label=issues%20closed&labelColor=%20%237d89b0&color=%20%235d6b98"></a>
-    <a href="https://github.com/langgenius/dify/discussions/" target="_blank">
+    <a href="https://bgithub.xyz/langgenius/dify/discussions/" target="_blank">
         <img alt="Discussion posts" src="https://img.shields.io/github/discussions/langgenius/dify?labelColor=%20%239b8afb&color=%20%237a5af8"></a>
 </p>
 
@@ -188,7 +188,7 @@ Dify 是一个开源的 LLM 应用开发平台。其直观的界面结合了 AI 
 
 ```bash
 cd docker
-cp .env.example .env
+copy .env.example .env
 docker compose up -d
 ```
 
@@ -237,7 +237,7 @@ docker compose up -d
 
 **Contributors**
 
-<a href="https://github.com/langgenius/dify/graphs/contributors">
+<a href="https://bgithub.xyz/langgenius/dify/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=langgenius/dify" />
 </a>
 
